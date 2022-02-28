@@ -17,6 +17,7 @@ Meal: 1 bag animal pellets, 1 bag dried fruit, 1/2 bag cashews, 5 carrots, 3 sta
 Times: 8:00 am
 Directions: disperse contents throughout Chinchilla habitat
 
-new line added
-
-added after add staging
+4. Poison Dart Frogs
+Meal: 1 bag small crickets
+Times: 6:00 am
+Directions: empty bag in frog habitat once daily. Do not touch frogs! Extremely poisonous.
